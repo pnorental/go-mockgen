@@ -2,7 +2,7 @@ package consts
 
 const (
 	Name        = "go-mockgen"
-	PackageName = "github.com/derision-test/go-mockgen/v2"
+	PackageName = "github.com/pnorental/go-mockgen/v2"
 	Description = "go-mockgen generates mock implementations from interface definitions."
-	Version     = "2.1.1"
+	Version     = "2.2.0"
 )
