@@ -1,3 +1,6 @@
+Fork of [derision-test/go-mockgen](https://github.com/derision-test/go-mockgen)
+Maintained to bump `golang.org/x/tools` for newer Go versions when upstream is dormant.
+
 # go-mockgen
 
 [![PkgGoDev](https://pkg.go.dev/badge/badge/github.com/derision-test/go-mockgen.svg)](https://pkg.go.dev/github.com/derision-test/go-mockgen)
